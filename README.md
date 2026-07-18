@@ -127,6 +127,24 @@ RoadGuard-AI
 
 ## 🚀 Future Scope
 
+RoadGuard AI 2.0 aims to evolve from a pothole detection prototype into a complete Smart Road Infrastructure Monitoring Platform.
+
+<p align="center">
+  <img src="assets/future_scope_2.0.png"
+       alt="RoadGuard AI 2.0 Future Scope"
+       width="100%">
+</p>
+
+### Planned Features
+- Edge AI Deployment (Jetson Nano / Raspberry Pi)
+- Multi-class Road Damage Detection
+- Government Analytics Dashboard
+- Community Reporting Platform
+- Smart Alerts & Voice Assistance
+- Route Optimization
+- Smart City Integration
+- Cloud-based Infrastructure Monitoring
+
 - Cloud Deployment
 - ADAS Integration
 - Vehicle-to-Vehicle Communication
@@ -144,7 +162,7 @@ RoadGuard-AI
 
 Information Science & Engineering  
 Dayananda Sagar Academy of Technology and Management
-Banglore, Karnataka
+, Bengaluru, Karnataka
 
 ---
 
