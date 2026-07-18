@@ -17,6 +17,19 @@ alt="RoadGuard AI Banner" width="100%">
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+
+---
+
+# 🏗️ System Architecture
+
+The RoadGuard AI system captures live road footage, detects potholes using YOLOv8, processes data through a Flask backend, stores information in MongoDB Atlas, and presents the results through a web dashboard and Flutter mobile application with GPS and voice alerts.
+
+<p align="center">
+  <img src="assets/architecture/system_architecture.png" width="100%">
+</p>
+
+---
+
 ---
 
 ## 📸 Application Preview
