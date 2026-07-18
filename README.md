@@ -130,8 +130,8 @@ RoadGuard-AI
 RoadGuard AI 2.0 aims to evolve from a pothole detection prototype into a complete Smart Road Infrastructure Monitoring Platform.
 
 <p align="center">
-  <img src="assets/future_scope_2.0.png"
-       alt="RoadGuard AI 2.0 Future Scope"
+  <img src="assets/ROADGUARD AI 2.0.png"
+       alt="ROADGUARD AI 2.0 Future Scope"
        width="100%">
 </p>
 
