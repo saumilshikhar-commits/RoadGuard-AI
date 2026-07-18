@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" 
+alt="RoadGuard AI Banner" width="100%">
+</p>
+
 # 🚗 RoadGuard AI
 
 > AI-powered Road Damage & Pothole Detection System using Flutter, Flask, YOLOv8, OpenCV, and MongoDB.
