@@ -98,21 +98,32 @@ The system captures live video through a mobile camera, sends frames to a Flask 
 
 ## 📂 Project Structure
 
-(To be updated)
+```text
+RoadGuard-AI
+│
+├── assets/
+│   ├── banner.png
+│   ├── screenshots/
+│   └── architecture/
+│
+├── docs/
+│
+├── roadguard_mobile_flutter/
+│
+├── templates/
+│
+├── app.py
+├── app_dashboard.py
+├── app_server.py
+├── main.py
+├── live_camera_detection.py
+├── pothole_data.py
+├── requirements.txt
+└── README.md
+```
 
 ---
 
-## 🏗 System Architecture
-
-(To be added)
-
----
-
-## 📸 Screenshots
-
-(To be added)
-
----
 
 ## 🚀 Future Scope
 
@@ -123,6 +134,8 @@ The system captures live video through a mobile camera, sends frames to a Flask 
 - AI Traffic Analytics
 - Government Road Monitoring
 
+
+
 ---
 
 ## 👨‍💻 Author
@@ -131,6 +144,7 @@ The system captures live video through a mobile camera, sends frames to a Flask 
 
 Information Science & Engineering  
 Dayananda Sagar Academy of Technology and Management
+Banglore, Karnataka
 
 ---
 
