@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Env
+venv/
+.env
+
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# YOLO
+runs/
+*.pt
+
+# Dataset
+Pothole detection.v1i.yolov5pytorch/
+
+# Videos
+videos/
+*.mp4
+
+# Images
+*.jpg
+*.png
+
+# Logs
+*.csv
+*.json
+
+# Zip
+*.zip
+
+# Backup
+*_backup/
+
