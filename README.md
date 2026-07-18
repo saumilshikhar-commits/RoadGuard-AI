@@ -9,6 +9,33 @@ alt="RoadGuard AI Banner" width="100%">
 
 ---
 
+## 📸 Application Preview
+
+### 🏠 Home Screen
+![Home Screen](assets/screenshots/home_screen.png)
+
+### 🤖 AI Detection
+![AI Detection](assets/screenshots/ai_detection.png)
+
+### 📊 Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+
+### 🗺️ GPS Map
+![GPS Map](assets/screenshots/gps_map.png)
+
+### 📡 GPS Radar
+![GPS Radar](assets/screenshots/gps_radar.png)
+
+### 🚨 Alerts
+![Alerts](assets/screenshots/alerts.png)
+
+### 🎙️ Voice Assistant
+![Voice Assistant](assets/screenshots/voice_assistant.png)
+
+---
+
+---
+
 ## 📌 Overview
 
 RoadGuard AI is a smart road monitoring system that detects potholes and road damage in real time using Artificial Intelligence.
