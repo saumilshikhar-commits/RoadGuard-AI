@@ -3,6 +3,12 @@
 alt="RoadGuard AI Banner" width="100%">
 </p>
 
+
+# 🚗 RoadGuard AI
+
+> AI-powered Road Damage & Pothole Detection System using Flutter, Flask, YOLOv8, OpenCV, and MongoDB.
+
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
 ![Flask](https://img.shields.io/badge/Flask-Backend-black?logo=flask)
@@ -10,10 +16,6 @@ alt="RoadGuard AI Banner" width="100%">
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-
-# 🚗 RoadGuard AI
-
-> AI-powered Road Damage & Pothole Detection System using Flutter, Flask, YOLOv8, OpenCV, and MongoDB.
 
 ---
 
